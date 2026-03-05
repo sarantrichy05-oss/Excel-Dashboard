@@ -112,7 +112,7 @@ Visualizations were created to analyze:
 - Customer loyalty segmentation
 - Product performance comparison
 
-![image_alt](
+![image_alt](https://github.com/sarantrichy05-oss/E-Commerce-Sales-Data-Analysis/blob/01bee6ae378d3b32fc50dc723f1b3a41ef7a865c/DASHBOARD%20.pdf)
 
 
 
